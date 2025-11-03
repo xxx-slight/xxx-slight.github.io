@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of SCCE](https://scce.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interest includes,Embodied Intelligence,computer vision, and machine learning.
+I'm a graduate student from [School of SCCE](https://scce.ucas.ac.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interest includes,Embodied Intelligence,computer vision, and machine learning.
 
 I am very fortunate to be advised by [Prof. Shuqiang Jiang](https://people.ucas.edu.cn/~sqjiang) of VIPL Lab from [Institute of Computing Technology](https://www.ict.ac.cn/) , Chinese Academy of Sciences. 
 
